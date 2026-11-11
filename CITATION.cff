@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the Risonia manuscript when referring to this project. The citation is provisional until public paper release."
+title: "Risonia: Visual Cluster Conditioning and Reliability-Weighted Supervision for 3D Self-Supervised Learning"
+authors:
+  - family-names: Zhang
+    given-names: Bole
+  - family-names: Zhang
+    given-names: Ce
+  - family-names: Anantrasirichai
+    given-names: Nantheera
+url: "https://github.com/zbole/Risonia"
+preferred-citation:
+  type: unpublished
+  title: "Risonia: Visual Cluster Conditioning and Reliability-Weighted Supervision for 3D Self-Supervised Learning"
+  authors:
+    - family-names: Zhang
+      given-names: Bole
+    - family-names: Zhang
+      given-names: Ce
+    - family-names: Anantrasirichai
+      given-names: Nantheera
+  year: 2026
+  notes: "Manuscript in preparation for CVPR 2027."
+  url: "https://github.com/zbole/Risonia"

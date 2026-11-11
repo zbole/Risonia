@@ -1,0 +1,32 @@
+# Local Python environments and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+Thumbs.db
+
+# Local credentials and machine configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datasets, feature caches, training outputs, and model weights
+data/
+datasets/
+checkpoints/
+weights/
+pretrained/
+runs/
+outputs/
+wandb/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.npy
+*.npz

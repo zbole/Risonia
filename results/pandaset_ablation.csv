@@ -1,0 +1,5 @@
+reliability,multiview,main_id,linear_miou,decoder_miou
+False,True,True,69.96,74.27
+True,False,True,70.05,75.46
+True,True,False,67.46,72.58
+True,True,True,72.08,76.21
